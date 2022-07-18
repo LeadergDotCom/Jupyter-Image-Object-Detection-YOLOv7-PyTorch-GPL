@@ -1,0 +1,8 @@
+data/plate/val/images/inclusion-144.jpg
+data/plate/val/images/inclusion-2.jpg
+data/plate/val/images/patches-1.jpg
+data/plate/val/images/patches-20.jpg
+data/plate/val/images/rolled_in_scale-178.jpg
+data/plate/val/images/rolled_in_scale-80.jpg
+data/plate/val/images/scratches-34.jpg
+data/plate/val/images/scratches-38.jpg

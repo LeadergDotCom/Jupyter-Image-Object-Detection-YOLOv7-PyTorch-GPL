@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<annotation>
+    <folder>images</folder>
+    <filename>rolled_in_scale-159.jpg</filename>
+    <path>rolled_in_scale-159.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>512</width>
+        <height>512</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+        <name>rolled_in_scale</name>
+        <pose>Unspecified</pose>
+        <truncated>0</truncated>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>66</xmin>
+            <ymin>142</ymin>
+            <xmax>236</xmax>
+            <ymax>415</ymax>
+        </bndbox>
+    </object>
+</annotation>

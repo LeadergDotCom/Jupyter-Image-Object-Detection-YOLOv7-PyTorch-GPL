@@ -1,0 +1,9 @@
+# train and val datasets (image directory or *.txt file with image paths)
+train: data/plate/train.txt
+val: data/plate/val.txt
+
+# number of classes
+nc: 4
+
+# class names
+names: ['inclusion', 'patches', 'rolled_in_scale', 'scratches']

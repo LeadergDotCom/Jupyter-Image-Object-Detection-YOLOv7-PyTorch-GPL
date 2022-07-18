@@ -1,0 +1,4 @@
+inclusion
+patches
+rolled-in_scale
+scratches
